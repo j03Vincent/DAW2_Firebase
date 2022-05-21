@@ -1,6 +1,6 @@
 Se ha desarrollado una aplicación en Angular que acceda a la información en una base de datos en Firebase (Firestore) y realice las operaciones: Crear, Leer, Actualizar y Borrar. Concretamente un CRUD de publicaciones donde estas tienen un titulo, contenido y autor. Por lo tanto, se puede añadir una nueva entrada, editar los campos del mismo, eliminar al post por completo, y leer sus datos en una tabla. Se ha trabajado con enrutamiento y navegación, permitiendo así varias pestañas.
 
-Se puede ver el despliegue de la página en github, haciendo clic en el [siguiente enlace.](https://j03vincent.github.io/DAW2_Firebase/g)
+Se puede ver el despliegue de la página en github, haciendo clic en el [siguiente enlace.](https://j03vincent.github.io/DAW2_Firebase/)
 # DAW2_Firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
